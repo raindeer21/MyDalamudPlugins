@@ -1,30 +1,28 @@
 [
     {
-        "Author": "attick, daemitus, Khayle",
-        "Name": "XIV Combo Expanded",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button.",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. For example, a 1-2-3 combo would become 1-1-1.",
-        "InternalName": "XIVComboExpanded",
-        "AssemblyVersion": "2.0.6.0",
-        "RepoUrl": "https://github.com/daemitus/XIVComboPlugin",
+        "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配), Raindeer23 (7.55 鱼类数据同步)",
+        "Name": "GatherBuddy Reborn",
+        "Punchline": "GatherBuddy 自动采集版",
+        "Description": "GatherBuddy 自动采集版, 需要安装并启用 vnavmesh 用于寻路。已同步上游鱼类数据、后续窗口预览及自动钓鱼修复，保留国服计时器识别、中文鱼王攻略和水没翠玉的红蛆起饵。",
+        "InternalName": "GatherBuddyReborn",
+        "AssemblyVersion": "7.5.0.15",
+        "RepoUrl": "https://github.com/raindeer21/GatherBuddyReborn",
         "ApplicableVersion": "any",
         "Tags": [
-            "combo",
-            "xivcombo",
-            "expanded",
-            "pcombo"
+            "采集",
+            "钓鱼",
+            "自动"
         ],
+        "AcceptsFeedback": true,
         "DalamudApiLevel": 15,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
+        "DownloadLinkInstall": "https://github.com/raindeer21/GatherBuddyReborn/releases/download/7.5.0.15/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/raindeer21/GatherBuddyReborn/releases/download/7.5.0.15/latest.zip",
+        "DownloadLinkTesting": "https://github.com/raindeer21/GatherBuddyReborn/releases/download/7.5.0.15/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/daemitus/MyDalamudPlugins/raw/master/plugins/XIVComboExpanded/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1777596682"
+        "LastUpdate": "1793197581"
     },
     {
         "Author": "Aaron Du",
