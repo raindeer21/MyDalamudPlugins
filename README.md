@@ -1,4 +1,16 @@
-Daemitus' Dalamud Plugins
+# Aaron 的 Dalamud 插件库
+
+在 Dalamud 第三方插件库中添加：
+
+```text
+https://raw.githubusercontent.com/raindeer21/MyDalamudPlugins/master/pluginmaster.json
+```
+
+- [键影随行](https://github.com/raindeer21/KeyboundCompanion)：国服魔光键影词条助手，支持首领优先、手动单次与自动间隔提交，所有提交至少间隔 1 秒。
+
+以下为原仓库的说明：
+
+## Daemitus' Dalamud Plugins
 
 Drop `https://github.com/daemitus/MyDalamudPlugins/raw/master/pluginmaster.json` into your third party repo URL list.
 
