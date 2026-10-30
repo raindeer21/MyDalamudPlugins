@@ -6,7 +6,7 @@
 https://raw.githubusercontent.com/raindeer21/MyDalamudPlugins/master/pluginmaster.json
 ```
 
-- [键影随行](https://github.com/raindeer21/KeyboundCompanion)：国服魔光键影词条助手，支持首领优先、手动单次与自动间隔提交，所有提交至少间隔 1 秒。
+- [键影随行](https://github.com/raindeer21/KeyboundCompanion)：国服魔光键影词条助手，支持首领优先、手动单次与自动间隔提交，所有提交至少间隔 1 秒，支持前台防闲置及进出副本自动显示/隐藏窗口。
 - [GatherBuddy Reborn](https://github.com/raindeer21/GatherBuddyReborn)：国服采集与钓鱼助手，fork 自 [Raindeer23 的分支](https://github.com/Raindeer23/GatherBuddyReborn)。当前版本 `7.5.0.15`，自动采集需要另外安装并启用 **vnavmesh**。
 
 XIV Combo Expanded 已从本列表移除。
